@@ -27,4 +27,4 @@ O computador sorteia um n√∫mero secreto entre **1 e 100**, e o jogador tem **at√
 1. Compile o programa:
 
 ```bash
-javac revisao1exe1.java
+javac jogoAdvinha.java
